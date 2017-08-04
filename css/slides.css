@@ -1,7 +1,6 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'Georgia';
 	font-style: normal;
-	src: url('FuturaHandwritten.ttf') format('truetype');
 }
 
 html,body{
